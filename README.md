@@ -31,7 +31,7 @@ In your IDE go to `Preferences -> SonarQube`.
 
 Click Add, enter the address of your Sonar server and the credentials (if needed) and click `OK` (if you use Sonarcloud.io as Sonar server then you need to enter value for Organization).
 
-![alt text](https://raw.github.com/sonar-intellij-plugin/sonar-intellij-plugin/master/screenshots/server_configuration.png "Example server configuration")
+![alt text](https://raw.github.com/bonivan/sonar-intellij-plugin/master/screenshots/server_configuration.png "Example server configuration")
 
 
 Back on the previous screen, find the `Sonar resources` section and click the `+` button to select the Sonar resource for this project:
